@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **a FIFA World Cup prediction platform powered by Machine Learning and Explainable AI.**<br><br>👯 I’m looking to collaborate on **AI, Data Science, Cybersecurity, and Open Source projects.**<br><br>🤝 I’m looking for help with **MLOps, model deployment, and large-scale machine learning systems.**<br><br>🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, Cloud Computing, and System Design.**<br><br>💬 Ask me about **Python, Java, Cybersecurity, Machine Learning, Data Analytics, and Software Engineering.**<br><br>⚡ Fun fact: **I love turning complex datasets into intelligent systems that can predict real-world outcomes.**<br>
+🔭 I’m currently working on **Making AI Agents**<br><br>👯 I’m looking to collaborate on **AI, Data Science, Cybersecurity, and Open Source projects.**<br><br>🤝 I’m looking for help with **MLOps, model deployment, and large-scale machine learning systems.**<br><br>🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, Cloud Computing, and System Design.**<br><br>💬 Ask me about **Python, Java, Cybersecurity, Machine Learning, Data Analytics, and Software Engineering.**<br><br>⚡ Fun fact: **I love turning complex datasets into intelligent systems that can predict real-world outcomes.**<br>
 
 
 ## 🌐 Socials:
